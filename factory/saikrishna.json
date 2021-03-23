@@ -1,0 +1,9 @@
+{
+	"name": "saikrishna",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "900b4f6c-a53c-49cf-b117-bafed91b0643",
+		"tenantId": "4812173e-b6a8-4825-936f-31096b569514"
+	}
+}
